@@ -1,0 +1,14 @@
+#programerHead{
+   animation: ispap 3s infinite;
+}
+
+@keyframes ispap {
+    50%{
+
+        transform:translateY(20px)
+    }
+    100%{
+        transform:translateY(0)
+    }
+    
+}

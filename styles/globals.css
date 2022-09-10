@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 *{
-    background: #EDEDED;
+    /* background: #EDEDED; */
     overflow-x: hidden;
     scroll-behavior: smooth;
 }

@@ -12,6 +12,10 @@
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-image-gallery": "^1.2.9",
+    "react-slick": "^0.29.0",
+    "react-typed": "^1.2.0",
     "react-use-window-scroll": "^1.0.14"
   },
   "devDependencies": {
