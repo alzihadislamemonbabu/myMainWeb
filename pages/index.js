@@ -16,23 +16,23 @@ function index() {
 
 
   // carausel images 
-  const [carauseImg, setCarauselImg] = useState('web1.svg')
+  const [carauseImg, setCarauselImg] = useState('web1.jpg')
 
   // changing imgs 
   const handleImg1 = () => {
-    setCarauselImg('web1.svg')
+    setCarauselImg('web1.jpg')
 
   }
   const handleImg2 = () => {
-    setCarauselImg('web2.svg')
+    setCarauselImg('web2.jpg')
 
   }
   const handleImg3 = () => {
-    setCarauselImg('web3.svg')
+    setCarauselImg('web3.jpg')
 
   }
   const handleImg4 = () => {
-    setCarauselImg('web4.svg')
+    setCarauselImg('web4.jpg')
 
   }
 
